@@ -1,4 +1,4 @@
-- Insert F1 Menu
+# Insert F1 Menu
 
 F1 Menu for ESX made by https://github.com/Its-RDJ.
 
